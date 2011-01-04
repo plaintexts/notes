@@ -1,0 +1,15 @@
+system_error_&H80004005
+
+software name	:
+			visual basic 6.0
+host os		:
+			windows 2000 professional
+running os	:
+			windows xp sp3
+description	:	
+			"vb6.exe", "api text viewer.exe", as well as many other ActiveX(or COM) related programs just displayed
+			"System Error &H80004005 (-2147467259)" , then teminated itself or by OS.
+solution	:
+			The problem may be caused by one of the "Visual Studio 6.0 Enterprise" components, "Application 
+			Performance Explorer" in catagory "Enterprise Tools"¡£It works fine, if VB6 installed without service
+			packs, when the service packs (either 5 or 6) are applied, the error would likely to occur.

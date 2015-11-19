@@ -1,0 +1,26 @@
+File managers for X:
+	tuxcmd
+	gnome-commander
+	rox-filer
+	nautilus
+	pcmanfm
+	xfe
+	dolphin
+	krusader
+	xfm
+	gentoo
+	tkdesk
+	worker
+	thunar
+	doublecmd
+	gpe-filemanager
+	spacefm
+
+File managers for unix console:
+	ytree
+	mc
+	clex
+	fdclone
+	lfm
+	ranger
+	vifm

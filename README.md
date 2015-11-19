@@ -7,17 +7,19 @@ MyPlace Notes
 
 
 1. accounts
+
 	帐号相关
 
 2. reference
+
 	使用手册，引用
 
 3. software
+
 	软件相关
 
 
 _______________________________________________________
 
-作者: eotect
+Copyright&copy; eotect, 2015
 
-日期: 2015年11月20日

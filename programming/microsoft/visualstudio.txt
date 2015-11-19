@@ -1,0 +1,795 @@
+微软官方下载链接
+
+关于download.microsoft.com
+	http://go.microsoft.com/fwlink/?LinkId=615454&clcid=0x409
+		LinkId=
+		clcid=
+			0x409	en_us
+			0x804	zh_cn
+
+#################################################################################
+#								Visual Studio 2015								#
+#################################################################################
+
+Visual Studio Community 2015
+http://123.66.126.8/download.microsoft.com/download/0/B/C/0BC321A4-013F-479C-84E6-4A2F90B11269/vs2015.com_enu.iso
+http://123.66.126.8/download.microsoft.com/download/B/4/8/B4870509-05CB-447C-878F-2F80E4CB464C/vs2015.com_chs.iso
+
+Visual Studio Enterprise 2015
+http://123.66.126.8/download.microsoft.com/download/6/4/7/647EC5B1-68BE-445E-B137-916A0AE51304/vs2015.ent_enu.iso
+http://123.66.126.8/download.microsoft.com/download/B/8/F/B8F1470D-2396-4E7A-83F5-AC09154EB925/vs2015.ent_chs.iso
+ed2k://|file|cn_visual_studio_enterprise_2015_x86_x64_dvd_6846222.iso|4172560384|E558149A422E9FBF7D1D37FB0A2F1F53|/
+	CD-KEY:	HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+
+Visual Studio Professional 2015
+http://123.66.126.8/download.microsoft.com/download/5/8/9/589A8843-BA4D-4E63-BCB2-B2380E5556FD/vs2015.pro_enu.iso
+http://123.66.126.8/download.microsoft.com/download/B/8/9/B898E46E-CBAE-4045-A8E2-2D33DD36F3C4/vs2015.pro_chs.iso
+ed2k://|file|cn_visual_studio_professional_2015_x86_x64_dvd_6846645.iso|4125556736|6EECD10D20D74704C919CC60F088823E|/
+	CD-KEY:	HMGNV-WCYXV-X7G9W-YCX63-B98R2
+
+Visual Studio Test Professional 2015
+http://123.66.126.7/download.microsoft.com/download/8/5/6/856E021B-39D6-4593-B7BB-2F8D1178EBCB/vs2015.testpro_enu.iso
+http://123.66.126.7/download.microsoft.com/download/0/9/5/095317BD-41B4-4D71-AAE8-C2D1D1033B92/vs2015.testpro_chs.iso
+
+Visual Studio Team Foundation Server 2015
+https://download.microsoft.com/download/D/5/5/D55B3B8C-A270-495F-BEF9-846AB05F294B/tfs_server.exe
+https://download.microsoft.com/download/D/5/5/D55B3B8C-A270-495F-BEF9-846AB05F294B/tfs2015_server_enu.iso
+https://download.microsoft.com/download/8/5/D/85D0A823-795C-4741-B3BA-650192E1CA39/tfs_server.exe
+https://download.microsoft.com/download/8/5/D/85D0A823-795C-4741-B3BA-650192E1CA39/tfs2015_server_chs.iso
+
+Team Explorer Everywhere 2015
+https://download.microsoft.com/download/8/F/6/8F68DDC8-4E75-4BEA-951E-C14BFF336E81/TEE-CLC-14.0.1.zip
+https://download.microsoft.com/download/8/F/6/8F68DDC8-4E75-4BEA-951E-C14BFF336E81/TFS-SDK-14.0.1.zip
+https://download.microsoft.com/download/8/F/6/8F68DDC8-4E75-4BEA-951E-C14BFF336E81/TFSEclipsePlugin-UpdateSiteArchive-14.0.1.zip
+
+Visual Studio Express 2015 for Desktop
+http://download.microsoft.com/download/D/E/5/DE5263E9-A58D-469A-BA16-14786E2E2B1C/wdexpress_full.exe
+http://download.microsoft.com/download/1/A/9/1A976857-6B71-4048-9EB2-8DFA34D684C6/wdexpress_full.exe
+
+Visual Studio Express 2015 for Web
+http://download.microsoft.com/download/3/A/2/3A21E166-8760-4595-A421-622706FD892F/vns_full.exe
+http://download.microsoft.com/download/2/6/B/26B55AE6-04A7-4551-998A-861BFB3B911C/vns_full.exe
+
+Visual Studio Express 2015 for Windows 10
+http://download.microsoft.com/download/5/1/2/51272291-B7C9-49C1-A562-7DEB693F0EE7/winexpress_full.exe
+http://download.microsoft.com/download/6/F/A/6FABBA0B-A59E-4866-8455-F52544EDC437/winexpress_full.exe
+
+Visual Studio Team Foundation Server Express 2015
+https://download.microsoft.com/download/C/A/F/CAF8D1B5-3065-4FEB-B9F0-3E6DAD0C03C8/tfs_express.exe
+https://download.microsoft.com/download/C/A/F/CAF8D1B5-3065-4FEB-B9F0-3E6DAD0C03C8/tfs2015_express_enu.iso
+https://download.microsoft.com/download/C/C/3/CC396DA7-5289-471B-B501-3855B1067921/tfs_express.exe
+https://download.microsoft.com/download/C/C/3/CC396DA7-5289-471B-B501-3855B1067921/tfs2015_express_chs.iso
+
+Visual Studio Tools for Applications 2015 SDK 
+https://download.microsoft.com/download/C/3/2/C325727C-02F1-4ED9-A33B-E90FB1F46F75/vsta_sdk.exe
+
+#################################################################################
+#								Visual Studio 2013								#
+#################################################################################
+
+Microsoft Visual Studio 2013 CD-KEY
+BWG7X-J98B3-W34RT-33B3R-JVYW9
+
+Visual Studio Community 2013 with Update 5
+http://123.66.126.27/download.microsoft.com/download/A/A/D/AAD1AA11-FF9A-4B3C-8601-054E89260B78/vs2013.5_ce_enu.iso?type=ISO
+http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs2013.4_ce_enu.iso
+
+Visual Studio 2013 Language Pack
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/English
+http://123.66.126.28/download.microsoft.com/download/D/7/5/D75814E7-19DC-42B1-A431-AAA294CEB943/vs_langpack.exe
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/Chinese (Simplified)
+http://123.66.126.28/download.microsoft.com/download/1/B/D/1BD8A9B2-1257-41EC-846B-16A6D5CD29D9/vs_langpack.exe
+http://download.microsoft.com/download/1/B/D/1BD8A9B2-1257-41EC-846B-16A6D5CD29D9/vs_langpack.exe
+
+Visual Studio Ultimate 2013 with Update 5
+http://123.66.126.6/download.microsoft.com/download/E/2/A/E2ADF1BE-8FA0-4436-A260-8780444C8355/vs2013.5_ult_enu.iso?type=ISO
+http://download.microsoft.com/download/8/1/F/81FE1D40-2658-4CC5-8699-85D8377B35B9/vs2013.4_ult_chs.iso
+http://download.microsoft.com/download/1/E/0/1E0AA8D0-F5D4-45A8-9CA6-D9DC8A54DE3E/vs2013.4_ult_enu.iso
+vs2013旗舰版：ed2k://|file|cn_visual_studio_ultimate_2013_x86_dvd_3175316.iso|3077509120|ADDA34B2BC29E1571276AE50A220EB91|/
+	CD-KEY:	BWG7X-J98B3-W34RT-33B3R-JVYW9
+
+Visual Studio Premium 2013 with Update 5
+http://123.66.126.5/download.microsoft.com/download/6/5/F/65F510B7-D597-4E80-8EFE-86DDCFCC7C43/vs2013.5_prem_enu.iso?type=ISO
+http://download.microsoft.com/download/9/9/5/9959B63F-829D-4BB0-98E2-0DE610A2248C/vs2013.4_prem_chs.iso
+http://download.microsoft.com/download/0/D/3/0D316453-32A1-4042-A5B6-30B14A4C24AA/vs2013.4_prem_enu.iso
+
+Visual Studio Professional 2013 with Update 5
+http://123.66.126.6/download.microsoft.com/download/F/2/E/F2EFF589-F7D7-478E-B3AB-15F412DA7DEB/vs2013.5_pro_enu.iso?type=ISO
+http://download.microsoft.com/download/6/F/B/6FB78427-B4F2-4978-BC2F-143DAAF70AA7/vs2013.4_pro_chs.iso
+http://download.microsoft.com/download/F/3/C/F3C109C2-8442-477A-A442-04A175870137/vs2013.4_pro_enu.iso
+ed2k://|file|cn_visual_studio_professional_2013_x86_dvd_3009203.iso|3020535808|133B4703B20B4E78C1742E3AC8665CBC|/
+	CD-KEY:	XDM3T-W3T3V-MGJWK-8BFVD-GVPKY
+	
+Visual Studio Team Foundation Server 2013
+http://download.microsoft.com/download/3/1/1/31149D54-CE97-4403-99E2-EBBEB790B718/vs2013.4_tfs_enu.iso
+http://download.microsoft.com/download/8/E/5/8E54A206-05EE-492C-A45A-65C0EA568170/vs2013.4_tfs_chs.iso
+
+Visual Studio Test Professional 2013
+http://download.microsoft.com/download/F/3/1/F312DA3F-D4B9-4C26-A5AF-F2E68DC2DF65/VS2013_RTM_TESTPRO_CHS.iso
+http://download.microsoft.com/download/4/0/6/406E397F-EDBE-4437-B64F-40DF7A92A26E/VS2013_RTM_TESTPRO_ENU.iso
+http://download.microsoft.com/download/9/4/3/9430B009-5E55-4D48-ADA6-CBC1E025573E/vs2013.4.iso
+
+Visual Studio Express 2013 with Update 5 for Windows Desktop
+http://123.66.126.5/download.microsoft.com/download/2/E/E/2EEC68E6-7B03-437A-AF06-F8E43F04014D/vs2013.5_dskexp_ENU.iso?type=ISO
+http://123.66.126.5/download.microsoft.com/download/4/4/E/44ED2754-ABC4-443F-812B-42AFEF04D478/vs2013.5_dskexp_CHS.iso?type=ISO
+
+Visual Studio Express 2013 with Update 5 for Web
+http://123.66.126.11/download.microsoft.com/download/1/4/E/14EBBE1A-A30F-4A50-8A42-40A9DC095533/vs2013.5_webexp_ENU.iso?type=ISO
+http://123.66.126.11/download.microsoft.com/download/C/A/3/CA357596-1CAD-40B0-BDD5-196DF6361039/vs2013.5_webexp_CHS.iso?type=ISO
+
+Visual Studio Express 2013 with Update 5 for Windows
+http://123.66.126.12/download.microsoft.com/download/E/D/8/ED8AA9A9-3077-472B-B23A-3537EEB7296E/vs2013.5_winexp_ret_ENU.iso?type=ISO
+http://123.66.126.12/download.microsoft.com/download/3/B/9/3B9F73EF-888A-4F03-9B44-C5D5C22C3DF3/vs2013.5_winexp_ret_CHS.iso?type=ISO
+
+Visual Studio Team Foundation Server Express 2013
+https://download.microsoft.com/download/E/B/A/EBAA4432-6ECF-4FF5-AB20-DDB11E19A4D0/tfs_express.exe
+https://download.microsoft.com/download/E/B/A/EBAA4432-6ECF-4FF5-AB20-DDB11E19A4D0/vs2013.5_tfs_exp_enu.iso
+https://download.microsoft.com/download/5/9/F/59F87293-62C3-43CD-A8C8-C260428AD3C3/tfs_express.exe
+https://download.microsoft.com/download/5/9/F/59F87293-62C3-43CD-A8C8-C260428AD3C3/vs2013.5_tfs_exp_chs.iso
+
+
+Visual Studio 2013 Update 5 (Visual Studio 2013.5)
+http://123.66.126.27/download.microsoft.com/download/A/F/9/AF95E6F8-2E6E-49D0-A48A-8E918D7FD768/vs2013.5.iso
+
+Visual Studio 2013 Update 4 (Visual Studio 2013.4)
+http://download.microsoft.com/download/9/4/3/9430B009-5E55-4D48-ADA6-CBC1E025573E/vs2013.4.iso
+
+
+Microsoft Visual Studio and .NET Framework Documentation 2013
+https://download.microsoft.com/download/8/9/2/8928585D-136D-4528-AECC-2F211902A8D7/VS2013Documentation.iso
+
+Visual C++ Compiler November 2013 CTP
+http://download.microsoft.com/download/3/C/2/3C271B79-6354-4B66-9014-C6CEBC14C5C4/vc_CompilerCTP.Nov2013.exe
+
+Microsoft Visual Studio 2013 SDK
+https://download.microsoft.com/download/9/1/0/910EE61D-A231-4DAB-BD56-DCE7092687D5/vssdk_full.exe
+
+#################################################################################
+#								Visual Studio 2012								#
+#################################################################################
+
+Microsoft Visual Studio 2012 CD-KEY
+YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
+RBCXF-CVBGR-382MK-DFHJ4-C69G8
+YQ7PR-QTHDM-HCBCV-9GKGG-TB2TM
+
+Microsoft Visual Studio Premium 2012
+https://download.microsoft.com/download/1/3/1/131D8A8C-95D8-41D4-892A-1DF6E3C5DF7D/VS2012_PREM_enu.iso
+https://download.microsoft.com/download/1/3/1/131D8A8C-95D8-41D4-892A-1DF6E3C5DF7D/vs_premium_download.exe
+https://download.microsoft.com/download/1/3/1/131D8A8C-95D8-41D4-892A-1DF6E3C5DF7D/vs_premium.exe
+https://download.microsoft.com/download/B/0/5/B05EDF33-F00D-4961-8191-7BA4D4C7747E/VS2012_PREM_chs.iso
+https://download.microsoft.com/download/B/0/5/B05EDF33-F00D-4961-8191-7BA4D4C7747E/vs_premium_download.exe
+https://download.microsoft.com/download/B/0/5/B05EDF33-F00D-4961-8191-7BA4D4C7747E/vs_premium.exe
+
+Microsoft Visual Studio Ultimate 2012
+https://download.microsoft.com/download/D/B/0/DB03922C-FF91-4845-B7F2-FC68595AB730/VS2012_ULT_enu.iso
+https://download.microsoft.com/download/B/0/F/B0F589ED-F1B7-478C-849A-02C8395D0995/VS2012_ULT_chs.iso
+ed2k://|file|cn_visual_studio_ultimate_2012_x86_dvd_920954.iso|1643802624|A3058CE4F2AD7035DB6E67586D07AAA5|/
+	CD-KEY:	YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
+
+Microsoft Visual Studio Professional 2012
+https://download.microsoft.com/download/D/E/8/DE8E42D8-7598-4F4E-93D4-BB011094E2F9/VS2012_PRO_enu.iso
+https://download.microsoft.com/download/D/E/8/DE8E42D8-7598-4F4E-93D4-BB011094E2F9/vs_professional_download.exe
+https://download.microsoft.com/download/D/E/8/DE8E42D8-7598-4F4E-93D4-BB011094E2F9/vs_professional.exe
+https://download.microsoft.com/download/B/2/8/B2801FEE-9A60-4AFA-8657-0E8AB0A373F0/VS2012_PRO_chs.iso
+https://download.microsoft.com/download/B/2/8/B2801FEE-9A60-4AFA-8657-0E8AB0A373F0/vs_professional.exe
+https://download.microsoft.com/download/B/2/8/B2801FEE-9A60-4AFA-8657-0E8AB0A373F0/vs_professional_download.exe
+ed2k://|file|cn_visual_studio_professional_2012_x86_dvd_920783.iso|1590749184|52B956DB8119CFB1610CC8E369F5F1FD|/
+	CD-KEY:	4D974-9QX42-9Y43G-YJ7JG-JDYBP
+
+
+Microsoft Visual Studio Express 2012 for Windows 8
+https://download.microsoft.com/download/6/E/C/6EC5B3CF-CC0D-448A-9846-8AF059DE7F72/VS2012_WINEXP_enu.ISO
+https://download.microsoft.com/download/6/E/C/6EC5B3CF-CC0D-448A-9846-8AF059DE7F72/win8express_full.exe
+https://download.microsoft.com/download/8/1/B/81B0C41A-595F-4D5D-8C83-BB29ADDB265D/VS2012_WINEXP_chs.ISO
+https://download.microsoft.com/download/8/1/B/81B0C41A-595F-4D5D-8C83-BB29ADDB265D/win8express_full.exe
+
+Microsoft Visual Studio Express 2012 for Web 
+https://download.microsoft.com/download/9/A/F/9AF3CEC7-468A-459A-B5F3-16067DAA43A5/VS2012_WebExp_enu.iso
+https://download.microsoft.com/download/9/A/F/9AF3CEC7-468A-459A-B5F3-16067DAA43A5/vns_full.exe
+https://download.microsoft.com/download/4/1/9/419E6C68-1015-4C1B-9B02-3EB693BE9B54/VS2012_WebExp_chs.iso
+https://download.microsoft.com/download/A/E/D/AED3D95C-01B1-449D-A495-F26B2A1E9A4A/vs_testprofessional.exe
+
+Visual Studio Express 2012 for Windows Desktop
+https://download.microsoft.com/download/1/F/5/1F519CC5-0B90-4EA3-8159-33BFB97EF4D9/VS2012_WDX_ENU.iso
+https://download.microsoft.com/download/1/F/5/1F519CC5-0B90-4EA3-8159-33BFB97EF4D9/wdexpress_full.exe
+https://download.microsoft.com/download/5/8/0/58036824-2B04-4C47-99B3-A5EEBFA5C05F/VS2012_WDX_CHS.iso
+https://download.microsoft.com/download/5/8/0/58036824-2B04-4C47-99B3-A5EEBFA5C05F/wdexpress_full.exe
+
+Microsoft Visual Studio Tools for Applications 2012
+https://download.microsoft.com/download/5/D/9/5D911242-7FAA-48CF-B7CC-05AFDBFB0650/vsta_setup.exe
+https://download.microsoft.com/download/3/8/8/3883D8FB-1E7C-4F11-A183-0C5FD6636FDA/vsta_setup.exe
+
+Visual Studio 2012 Update 4
+http://download.microsoft.com/download/D/4/8/D48D1AC2-A297-4C9E-A9D0-A218E6609F06/VSU4/VS2012.4.exe
+
+Visual Studio 2012 Update 5
+http://123.66.126.10/download.microsoft.com/download/9/F/1/9F1DEA0F-97CC-4CC4-9B4D-0DB45B8261F0/VS2012.5.iso
+https://download.microsoft.com/download/1/7/A/17A8493D-BB25-4811-8242-CCCB74EF982E/VS2012.5.iso
+https://download.microsoft.com/download/1/7/A/17A8493D-BB25-4811-8242-CCCB74EF982E/VS2012.5.exe
+https://download.microsoft.com/download/7/C/1/7C146FF7-FB10-446D-BD98-FD0218098197/VS2012.5.iso
+https://download.microsoft.com/download/7/C/1/7C146FF7-FB10-446D-BD98-FD0218098197/VS2012.5.exe
+
+Microsoft Visual Studio Test Professional 2012
+https://download.microsoft.com/download/7/9/7/7971903E-34E0-460C-9B38-84E8C1D0F3C3/VS2012_TESTPRO_enu.iso
+https://download.microsoft.com/download/7/9/7/7971903E-34E0-460C-9B38-84E8C1D0F3C3/vs_testprofessional.exe
+https://download.microsoft.com/download/A/E/D/AED3D95C-01B1-449D-A495-F26B2A1E9A4A/VS2012_TESTPRO_chs.iso
+https://download.microsoft.com/download/A/E/D/AED3D95C-01B1-449D-A495-F26B2A1E9A4A/vs_testprofessional.exe
+
+Team Explorer for Microsoft Visual Studio 2012
+https://download.microsoft.com/download/9/B/4/9B44FFC8-64C2-4091-9028-6E8550E9C96E/VS2012_TEAMEXP_MSDN_enu.iso
+https://download.microsoft.com/download/9/B/4/9B44FFC8-64C2-4091-9028-6E8550E9C96E/vs_teamExplorer.exe
+
+Microsoft Visual Studio and .NET Framework Documentation 2012
+英文
+https://download.microsoft.com/download/8/9/2/8928585D-136D-4528-AECC-2F211902A8D7/VS2012Documentation.iso
+中文
+https://download.microsoft.com/download/5/6/4/5645A5C9-BE44-4964-9265-B6A8E48031A7/VS2012Documentation.iso
+
+
+#################################################################################
+#								Visual Studio 2010								#
+#################################################################################
+Visual Studio 2010 CD-KEY
+YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
+
+Visual Studio 2010 Ultimate
+http://download.microsoft.com/download/2/4/7/24733615-AA11-42E9-8883-E28CDCA88ED5/X16-42552VS2010UltimTrial1.iso
+http://download.microsoft.com/download/E/0/4/E0427BB8-8490-4C7F-A05B-AFEA0FC3EA80/X16-60997VS2010UltimTrialCHS.iso
+ed2k://|file|cn_visual_studio_2010_ultimate_x86_dvd_532347.iso|2685982720|4AE6228933DDE49D9BFA4C3467C831C2|/
+ed2k://|file|en_visual_studio_2010_ultimate_x86_dvd_509116.iso|2446950400|0694CFA0756D8C11499DE5B42E205410|/
+ed2k://|file|Microsoft.Visual.Studio.Ultimate.2010中文旗舰版.DVD.iso|2685960192|c30459ca023785334282cb8303733b91|h=635tmi54j2zwaogyuiuxgsnlu3to42xy|/
+ed2k://|file|%5BMicrosoft.Visual.Studio.2010.Ultimate%5D.X16-60997VS2010UltimTrialCHS.iso|2685982720|968920d7261b408a0439675687897b8d|/
+ed2k://|file|[Visual.Studio.2010.简体中文旗舰版（MSDN原版下载）内置KEY].iso|2685982720|4ae6228933dde49d9bfa4c3467c831c2|/
+
+Visual Studio 2010 Premium
+http://download.microsoft.com/download/F/F/8/FF8C8AF1-D520-4027-A844-8EC7BC0FB27C/X16-42546VS2010PremTrial1.iso
+http://download.microsoft.com/download/4/C/5/4C5F061E-4C1E-424F-A2B6-B8E66AC9DADD/X16-56515VS2010PremTrialCHS.iso
+ed2k://|file|en_visual_studio_2010_premium_x86_dvd_509357.iso|2439485440|C72F6195CAC0932AA5B6861AE863FDBC|/
+
+Visual Studio 2010 Professional
+http://download.microsoft.com/download/4/0/E/40EFE5F6-C7A5-48F7-8402-F3497FABF888/X16-42555VS2010ProTrial1.iso
+http://download.microsoft.com/download/1/4/3/143B7583-6225-474F-88D5-5811FBC470FD/X16-57473VS2010ProTrialCHS.iso
+ed2k://|file|en_visual_studio_2010_professional_x86_dvd_509727.iso|2351316992|D395B6381AC129209EE80D9BED4BA5F1|/
+ed2k://|file|cn_visual_studio_2010_professional_x86_dvd_532145.iso|2591844352|6001253431AFE573E4344F5A0B1D9CAC|/
+ed2k://|file|[Visual.Studio.2010.简体中文专业版（MSDN原版下载内置KEY）].iso|2591844352|6001253431afe573e4344f5a0b1d9cac|/
+
+Visual Studio 2010 Test Professional
+http://download.microsoft.com/download/F/6/6/F6615AB8-E082-4E92-A715-A087E83D37F8/X16-42549VS2010TestProTrial1.iso
+http://download.microsoft.com/download/C/7/6/C76DEDBD-183E-43D1-A86E-1E3D8C8AFA21/X16-60619VS2010TestProTrialCHS.iso
+
+Visual Studio Team Foundation Server 2010
+http://download.microsoft.com/download/1/5/1/15139F21-8A10-44E8-99D5-B37316D3F00F/X16-42785VS2010TFS1.iso
+http://download.microsoft.com/download/A/D/F/ADF54B48-8FBA-477C-B652-90492C684D19/X17-08446TFSFPPENU.iso
+http://download.microsoft.com/download/7/2/5/7254F5B4-2E9F-420D-A695-7DF051AD881B/X17-08447TFSFPPCHS.iso
+ed2k://|file|cn_visual_studio_team_foundation_server_2010_x86_x64_dvd_531909.iso|1963589632|C9C77B2707DF100621B3FB653C285524|/
+ed2k://|file|en_visual_studio_team_foundation_server_2010_x86_x64_dvd_509406.iso|1723766784|70DC63F8B39D09C2B0BAE63DFB0673C9|h=FCKCPAUHYRWMM4L6BSD6FSZFD3QOOWVV|/
+
+
+Visual Studio 2010 Express
+http://download.microsoft.com/download/1/E/5/1E5F1C0A-0D5B-426A-A603-1798B951DDAE/VS2010Express1.iso
+http://download.microsoft.com/download/d/a/3/da3a3b50-03eb-4191-86db-a2334c2ddb0a/VS2010ExpressCHT.iso
+http://download.microsoft.com/download/5/c/1/5c156922-ca10-49d8-b7e7-9bf092c3b6eb/VS2010ExpressCHS.iso
+ed2k://|file|en_visual_studio_2010_express_x86_dvd_510419.iso|727351296|1D2EE178370FBD55E925045F3A435DCC|/
+
+Microsoft Visual Studio 2010 Service Pack 1
+http://go.microsoft.com/fwlink/?LinkId=210710
+http://download.microsoft.com/download/E/B/A/EBA0A152-F426-47E6-9E3F-EFB686E3CA20/VS2010SP1dvd1.iso
+
+Microsoft Visual Studio Team Foundation Server® 2010 Service Pack 1 
+https://download.microsoft.com/download/7/C/9/7C9971D6-7B6F-449F-94AF-67C846F4255C/TFS2010SP1-KB2182621.exe
+https://download.microsoft.com/download/7/C/9/7C9971D6-7B6F-449F-94AF-67C846F4255C/TFS2010SP1-KB2182621.exe
+ed2k://|file|en_visual_studio_team_foundation_server_2010_x86_x64_dvd_509406.iso|1723766784|70DC63F8B39D09C2B0BAE63DFB0673C9|/
+
+Microsoft Visual Studio Team Explorer 2010
+https://download.microsoft.com/download/4/4/C/44CD7FE1-CA53-441C-863C-F7E78F24D092/VS2010TE1.iso
+https://download.microsoft.com/download/C/3/F/C3F24918-0A72-400F-9608-DFCB2602C634/VS2010TECHS.iso
+
+Visual Studio 2010 SDK
+https://download.microsoft.com/download/8/E/D/8ED90A2C-8172-4FCA-B17B-C29C3F0A9732/VsSDK_sfx.exe
+
+Visual Studio 2010 SP1 SDK
+https://download.microsoft.com/download/C/F/D/CFD1CDDA-3046-4D13-8A6C-793EBAFDECFE/VsSDK_sfx.exe
+
+Microsoft Visual Studio 2010 Remote Debugger
+https://download.microsoft.com/download/E/E/1/EE10FC0E-8408-4C09-B9EB-4684160CFEE2/rdbgsetup_x86.exe
+https://download.microsoft.com/download/E/E/1/EE10FC0E-8408-4C09-B9EB-4684160CFEE2/rdbgsetup_x64.exe
+https://download.microsoft.com/download/E/E/1/EE10FC0E-8408-4C09-B9EB-4684160CFEE2/rdbgsetup_ia64.exe
+	中文
+https://download.microsoft.com/download/0/D/9/0D97C27A-9F17-4762-BD1B-351832C4A7AD/rdbgsetup_ia64.exe
+https://download.microsoft.com/download/0/D/9/0D97C27A-9F17-4762-BD1B-351832C4A7AD/rdbgsetup_x86.exe
+https://download.microsoft.com/download/0/D/9/0D97C27A-9F17-4762-BD1B-351832C4A7AD/rdbgsetup_x64.exe
+
+Microsoft Visual Studio 2010 Visualization & Modeling SDK
+https://download.microsoft.com/download/6/5/C/65C5ECEF-FD1E-407E-9613-558EF0EEBAA2/VS_VmSdk.exe
+
+Visual Studio 2010 Resource Kit
+https://download.microsoft.com/download/B/4/2/B4283F0E-902A-4E30-A301-787C2BBD135A/VS2010ResourceKit_v1.iso
+
+
+Visual Studio 2010 Help Library
+	20101231----20101231版完整安装包(英文，中文)。
+	20110121----更新20101231版中的错误文件(development_frameworks_21823146_vs_100_en-us_15(61687da1-94fd-6220-cfa8-3e3fee0184b2).cab)，请下载后替换原文件后安装
+ed2k://|file|Microsoft.Visual.Studio.2010.Help.Library.01.MSDN_Store_ALL_20101231.rar|4550947443|fb59c1c7aa5500773ae476ebb05fbe23|/
+ed2k://|file|Microsoft.Visual.Studio.2010.Help.Library.02.development_frameworks_21823146_vs_100_en-us_15%2861687da1-94fd-6220-cfa8-3e3fee0184b2%29_20110121[www.ed2kers.com].cab|31773034|597f2d36d88af2a5ab17f6044ec62555|/
+
+
+
+#################################################################################
+#								Visual Studio 2008								#
+#################################################################################
+Visual Studio 2008 CD-KEY
+	Visual Studio 2008 Team Suite
+PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
+	Visual Studio 2008 Professional
+XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT （测试成功）
+	Visual Studio 2008 Team Test Load Agent:
+WPX3J-BXC3W-BPYWP-PJ8CM-F7M8T
+	Visual Studio 2008 Team System:
+PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
+	Visual Studio 2008 Team Foundation Server:
+WPDW8-M962C-VJX9M-HQB4Q-JVTDM
+
+Visual Studio 2008 Team Suite
+http://download.microsoft.com/download/d/8/9/d89c9839-ac45-4a6c-b25f-2f60b190e356/VS2008TeamSuiteENU90DayTrialX1429235.iso
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part1.exe
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part2.rar
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part3.rar
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part4.rar
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part5.rar
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part6.rar
+http://download.microsoft.com/download/0/8/3/0839ce16-0523-4407-9432-01958ee61aff/VS2008TeamSuite90DayTrialCHSX1429243.part7.rar
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Team.Suite-ZWTiSO.iso|4112060416|7730FC9FFA4E1A1AB2A070C61BFD634B|h=YDLIF7QGESBVMJNATFOZA47X4YLBLY6H|/
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Team.Suite-ZWTiSO.nfo|5950|DB101CF7F32CEB5C5C23E33BB37779DB|h=NZPHN36RRBJUNGF5LWFBTCZYIMCXJ26A|/
+ed2k://|file|en_visual_studio_team_system_2008_team_suite_x86_dvd_X14-26461.iso|4111650816|C5A226DD3EB56ECADA202DD0139D93A1|/
+ed2k://|file|zh-Hans_visual_studio_team_system_2008_team_suite_x86_dvd_X14-26452.iso|4663904256|8E2D6430D819328940B9BF83568589FA|/
+
+Visual Studio Team System 2008 Development 
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Development.Edition-ZWTiSO.iso|4094865408|B01AC071244FCDE500A2FF87311D3B48|h=DC2GQUPHEH3QQYI6RKYO6JLWV2IN37LS|/
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Development.Edition-ZWTiSO.nfo|5610|1A360F57B3238EA8C4AA995EF01FE115|h=JNQXVLPMGWRJNMOAMECFTLVI6PGMIWVY|/
+
+Visual Studio Team System 2008 Architecture
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Architecture.Edition-ZWTiSO.nfo|5623|071287DB304AFCAEF283106130C5B82E|h=SWEVHNGGCUQ43N7JZZDHEM4HBMFN3Z3X|/
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Architecture.Edition-ZWTiSO.iso|4082206720|FA297A109830CB2E49BD239A7D97DB0C|h=6UL5RYBGKNXNUL6MJVCCCZ3R7DRTR5GE|/
+
+Visual Studio Team System 2008 Team Foundation Server
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Team.Foundation.Server.Workgroup.Edition-ZWTiSO.iso|1381771264|B18A8C85194CF71FBFF90E55D464BFAC|h=DJSJ7QULPYWVDKJ7TGJIFRV4TSEWW2C7|/
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Team.Foundation.Server.Workgroup.Edition-ZWTiSO.nfo|5823|D602D0498B41B152469A5FCD6961BCD6|h=FR4WIPB4SP6UBFMHTU5K53L7R77MN55C|/
+ed2k://|file|zh-hans_visual_studio_team_system_2008_team_foundation_server_service_pack_1_x86_x64wow.exe|138829336|1D87119458FCADEA960EBE032212A06C|/
+ed2k://|file|zh-Hans_visual_studio_team_system_2008_team_foundation_server_trial_x86_dvd_X14-29252.iso|1673187328|46C99AEF95383049C5FD33D716B58D4C|/
+
+
+Visual Studio Team System 2008 Test Load Agent
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Test.Load.Agent-ZWTiSO.iso|577777664|73E1DCB3EE2FA98AD2FEAE59231B1CC6|h=LJVJTA5GUZRCON73G7DUNIY7RWK7EUIR|/
+ed2k://|file|Microsoft.Visual.Studio.Team.System.2008.Test.Load.Agent-ZWTiSO.nfo|5789|0CDD86BEA3CC8B09450331DCD2DADE51|h=Y2ST5F53GZVYE2EBD5JJUPPQNQUBRCOK|/
+ed2k://|file|zh-Hans_visual_studio_team_system_2008_test_load_agent_trial_x86_dvd_X14-35625.iso|653629440|E594FE56910F3BFB9FC675125396E5BC|/
+
+Visual Studio 2008 Professional
+http://download.microsoft.com/download/8/1/d/81d3f35e-fa03-485b-953b-ff952e402520/VS2008ProEdition90dayTrialENUX1435622.iso
+http://download.microsoft.com/download/e/7/7/e777851c-c1a4-4979-86b3-6886953b32e9/VS2008ProEdition90DayTrialCHSX1435983.iso
+ed2k://|file|Microsoft.Visual.Studio.2008.Professional.Edition-ZWTiSO.iso|3554287616|46C8C3EF0FB4E67A50971E41B4B1FF0A|h=FWK6Z5MQ26RCFBRFJA5ZSEEKHRHL26WK|/
+ed2k://|file|Microsoft.Visual.Studio.2008.Professional.Edition-ZWTiSO.nfo|5642|047885A8DD7D32701BB540CCC15B18FF|h=S7R5BWZNWIBRUK3HWET2EGZ75DIO2RUR|/
+ed2k://|file|zh-Hans_visual_studio_2008_professional_x86_dvd_X14-26491.iso|3972526080|6690005555AFD1EC7FA9F7D1BA797FBB|/
+	CD-KEY:	XMQ2Y-4T3V6-XJ48Y-D3K2V-6C4WT
+
+
+Visual Studio 2008 Express
+http://download.microsoft.com/download/8/B/5/8B5804AD-4990-40D0-A6AA-CE894CBBB3DC/VS2008ExpressENUX1397868.iso
+ed2k://|file|zh-hans_visual_studio_2008_express_with_service_pack_1_x86_dvd_x15-04735.iso|1043931136|E9A9E4658B76CA626892054AB27B7ECB|/
+
+Microsoft Visual Studio 2008 Service Pack 1
+https://download.microsoft.com/download/a/3/7/a371b6d1-fc5e-44f7-914c-cb452b4043a9/VS2008SP1ENUX1512962.iso
+https://download.microsoft.com/download/1/9/d/19d22169-a4b2-455f-8c28-ed137bd91487/VS2008SP1CHSX1512981.iso
+ed2k://|file|en_visual_studio_2008_service_pack_1_x86_dvd_x15-12962.iso|871700480|6A69B8A27EBC4E359C18247E2E594329|/
+ed2k://|file|zh-hans_visual_studio_2008_service_pack_1_x86_dvd_x15-12981.iso|941703168|E1647161AA5CA4567B787A5606D2A065|/
+
+MSDN Express Library for Visual Studio 2008 Express Edition SP1
+http://download.microsoft.com/download/6/F/E/6FEC7293-1BD0-49A5-B242-E62014263A28/msdnixp.exe
+ed2k://|file|zh-hans_msdn_library_express_for_visual_studio_2008_service_pack_1_x86_252621.exe|454226944|4FE087AD72005E6A9F3B70CB248513EE|/
+
+MSDN Library 2008
+http://download.microsoft.com/download/c/7/c/c7c41934-8016-44c2-807c-d0301899f5eb/VS2008MSDNLibraryENUX1429217.iso
+
+MSDN Library for Visual Studio 2008 SP1 
+https://download.microsoft.com/download/1/f/0/1f07c259-7ff2-4902-9205-ad1dfb87ccab/VS2008SP1MSDNENUX1506188.iso
+https://download.microsoft.com/download/F/D/E/FDE79687-B716-4893-9BE3-1512F40388B1/CHSMSDNX1530343.ISO
+ed2k://|file|en_msdn_library_for_visual_studio_2008_service_pack_1_x86_dvd_x15-06188.iso|2313050112|0EC915C81BDE9C4947E7FE19F5B9A3FC|/
+ed2k://|file|cn_msdn_library_for_visual_studio_2008_service_pack_1_x86_dvd_x15-30343.iso|2547886080|9139495015368A525A598F372E5FC0C6|/
+
+
+Microsoft® SQL Server® 2008 Express Edition Service Pack 1
+https://download.microsoft.com/download/8/E/5/8E53FAA8-1129-4621-903F-3F8DB6D066AC/SQLEXPR_x86_ENU.exe
+https://download.microsoft.com/download/8/E/5/8E53FAA8-1129-4621-903F-3F8DB6D066AC/SQLEXPR32_x86_ENU.exe
+https://download.microsoft.com/download/8/E/5/8E53FAA8-1129-4621-903F-3F8DB6D066AC/SQLEXPR_x64_ENU.exe
+https://download.microsoft.com/download/9/1/C/91C955CE-50C2-4888-8E75-96454327F48A/SQLEXPR_x64_CHS.exe
+https://download.microsoft.com/download/9/1/C/91C955CE-50C2-4888-8E75-96454327F48A/SQLEXPR_x86_CHS.exe
+https://download.microsoft.com/download/9/1/C/91C955CE-50C2-4888-8E75-96454327F48A/SQLEXPR32_x86_CHS.exe
+
+
+Visual C++ 2008 Feature Pack
+https://download.microsoft.com/download/a/c/a/acaf4f79-2210-4034-94bb-f7e15eb335f5/VC2008FeaturePack.exe
+
+Visual Studio 2008 SDK Version 1.0 
+https://download.microsoft.com/download/5/b/3/5b3f9acf-44d2-429c-a4dc-09ea69b60c18/VsSDK_sfx.exe
+
+Visual Studio Team System 2008 Team Explorer
+http://download.microsoft.com/download/f/7/5/f758bcba-5b80-4e7d-bcc7-9612e58e7cd5/VS2008TeamExplorer.iso
+http://download.microsoft.com/download/d/7/2/d72f8415-7b4b-4168-ba3b-65c3ca4c1f81/VS2008TeamExplorerCHS.iso
+
+
+Visual Studio 2008 Service Pack 1 Remote Debugger 
+https://download.microsoft.com/download/9/8/2/98220c80-1633-4297-8b02-a8af777057b8/rdbgsetup_x86.exe
+https://download.microsoft.com/download/9/8/2/98220c80-1633-4297-8b02-a8af777057b8/rdbgsetup_x64.exe
+https://download.microsoft.com/download/9/8/2/98220c80-1633-4297-8b02-a8af777057b8/rdbgsetup_ia64.exe
+	中文版
+https://download.microsoft.com/download/d/1/0/d10ba9c7-f6af-41cd-b042-03f3c99910ab/rdbgsetup_x64.exe
+https://download.microsoft.com/download/d/1/0/d10ba9c7-f6af-41cd-b042-03f3c99910ab/rdbgsetup_x86.exe
+https://download.microsoft.com/download/d/1/0/d10ba9c7-f6af-41cd-b042-03f3c99910ab/rdbgsetup_ia64.exe
+
+#################################################################################
+#								Visual Studio 2006								#
+#################################################################################
+ed2k://|file|Microsoft%20Visual%20Studio%202006%20ENG%20DVD.ISO|2893565952|B37CB40878210C67D41D7D836A886718|/
+
+#################################################################################
+#								Visual Studio 2005								#
+#################################################################################
+Visual Studio 2005 CD-KEY
+KYTYH-TQKW6-VWPBQ-DKC8F-HWC4J
+
+Visual Studio 2005 Team Edition for Software Developers
+ed2k://|file|ZVS2K5TD.ISO|3798009856|F4EE492FE9AFDF49EA2B33171366EF10|/
+ed2k://|file|en_vs_2005_vstd_dvd.iso|3798009856|F4EE492FE9AFDF49EA2B33171366EF10|/
+
+
+Visual Studio 2005 Professional
+http://download.microsoft.com/download/e/0/4/e04de840-8f6b-4fe5-ac3d-d3ad8e4c2443/En_vs_2005_Pro_90_Trial.img
+http://download.microsoft.com/download/5/c/2/5c2840fd-8b03-492e-bd61-6fc2820b8ba3/chs_vs_2005_Pro_90_Trial.img
+ed2k://|file|cs_vs_2005_pro_dvd.iso|2733268992|9DA1C378BAC22E66A73C9E20EC78CCFB|/
+ed2k://|file|Microsoft.Visual.Studio.2005.Professional.Edition.DVD-ZWTiSO.img|2893565952|FBC54207E436783D58CBBC13C1BD1D17|/
+ed2k://|file|Microsoft.Visual.Studio.2005.Professional.Edition.DVD-ZWTiSO.nfo|6659|45B78DE2E6F870FD28CE49B875DEDDF8|/
+	CD-KEY:	KGR3T-F2C26-RRTGT-D6DQT-QBBB3
+
+Visual Studio 2005 Standard
+ed2k://|file|cs_vs_2005_std_dvd.iso|2637309952|D567DBB50DBFD9694EE81795BA3B3984|/
+
+Visual Studio Team System 2005 Team Suite
+http://download.microsoft.com/download/6/f/5/6f5f7a01-50bb-422d-8742-c099c8896969/En_vs_2005_vsts_180_Trial.img
+http://download.microsoft.com/download/b/a/6/ba691c56-8833-446c-82fe-cf94b588a622/chs_vs_2005_VSTS_180_Trial.img
+ed2k://|file|Microsoft.Visual.Studio.2005.Team.Suite.简体中文版.DVD.iso|3369064448|c6ff353f8913a03bbaa2d419b8e1270d|h=iuetc2vruket43ges53uhu74msyl7w25|/
+ed2k://|file|cs_vs_2005_vsts_dvd.iso|3955607552|6F4BD3F2C8E8A1320AA420AC417EA90F|/
+
+
+Visual Studio 2005 Express
+ed2k://|file|Visual.Studio.2005.Express.Edition.CHN.iso|696276992|38FB3DF5CF36C5B7815BF56D921D5812|h=7SYIDFSYY3D4UNYAZF6P2HW3ZVFSIPNY|/
+ed2k://|file|Visual.Studio.2005.Express.Edition.ENG.iso|651722752|BC3F408CB071136C7DF2B311AA9E77EF|h=K6NB2FRQLKMTQZBTPGUVZ3G7GZNV54VX|/
+
+Visio for Enterprise Architects (Visual Studio 2005)
+ed2k://|file|cs_visio_enterprise_architects_2005.iso|376285184|549FF77A7DE55F96A0A1C4E4681C5A4F|/
+
+Visual Basic 2005 Express Edition
+http://download.microsoft.com/download/A/B/4/AB4DA3D7-CC3A-4081-9FC8-E35653E85499/vb.iso
+http://download.microsoft.com/download/D/9/C/D9C35F20-A749-4E25-A306-DE20B93AB8C0/VB.iso
+http://download.microsoft.com/download/A/4/3/A43EFABE-4899-4D8E-92F0-BACD3BB34533/VB.img
+ed2k://|file|cs_vb_2005_express.iso|536113152|9C42DC8DECF4AC791F4FFA1976579A00|/
+
+Visual Web Developer 2005 Express Edition 
+http://download.microsoft.com/download/C/E/6/CE6B9F63-0E29-4560-A262-5EE8BCDB1E33/vwd.iso
+http://download.microsoft.com/download/B/D/0/BD0A8523-75FE-40A9-990B-C9D63F50AE63/VWD.iso
+http://download.microsoft.com/download/0/C/B/0CB7A5FA-23E2-4E12-9040-C80C1E3446A3/WEB.img
+Visual C++ 2005 Express Editio
+http://download.microsoft.com/download/8/E/8/8E85D539-2255-4CFD-AA97-440AE6C6F44A/vc.iso
+http://download.microsoft.com/download/A/9/1/A91D6B2B-A798-47DF-9C7E-A97854B7DD18/VC.iso
+http://download.microsoft.com/download/0/4/3/0434C5AF-8FB5-4D64-B8D8-E9BDF3C83152/VC.img
+Visual C# 2005 Express Edition
+http://download.microsoft.com/download/9/5/7/9576E49E-1EDA-486B-9543-E0B0A5ABBF16/vcs.iso
+http://download.microsoft.com/download/C/6/F/C6F4733B-67C7-4C15-9F21-61F7A3167505/VCS.iso
+http://download.microsoft.com/download/F/B/7/FB752D3F-1351-4556-B1E1-C16615D09D59/VCS.img
+Visual J# Express Edition (English Only) 
+http://download.microsoft.com/download/7/D/E/7DE05DF5-57AF-4B20-B74F-A5819F34D971/VJS.iso
+http://download.microsoft.com/download/C/0/D/C0DEABCF-4697-4EDA-916A-C998B1BD3A1C/VJS.img
+Visual SQL Server 2005 Express 
+http://download.microsoft.com/download/f/1/0/f10c4f60-630e-4153-bd53-c3010e4c513b/SQLEXPR.EXE
+
+
+Visual Basic 2005 Express Edition SP1
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/VS80sp1-KB926747-X86-INTL.exe
+Visual C++ 2005 Express Edition SP1
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/VS80sp1-KB926748-X86-INTL.exe
+Visual C# Express Edition SP1
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/VS80sp1-KB926749-X86-INTL.exe
+Visual J# Express Edition SP1
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/VS80sp1-KB926750-X86-ENU.exe
+Visual Web Dev Express Edition SP1
+http://download.microsoft.com/download/7/7/3/7737290f-98e8-45bf-9075-85cc6ae34bf1/VS80sp1-KB926751-X86-INTL.exe
+
+Visual Studio 2005 sp1
+http://download.microsoft.com/download/6/3/c/63c69e5d-74c9-48ea-b905-30ac3831f288/VS80sp1-KB926601-X86-ENU.exe
+http://download.microsoft.com/download/8/0/7/8071514d-9370-45c3-8af1-4ff09a70e59d/VS80sp1-KB926604-X86-CHS.exe
+ed2k://|file|mu_visual_studio_2005_service_pack_1_dvd_X13-40126.iso|4670547968|2079115D2F22AD7FA3B8839020143BE4|/
+
+
+Visual SourceSafe 2005 Update 
+https://download.microsoft.com/download/7/1/f/71fdb660-4e69-471a-ad58-d984b45cc140/VS80-KB943847-X86-INTL.exe
+
+
+Microsoft SQL Server Management Studio Express 41,874,944
+http://download.microsoft.com/download/5/f/2/5f2038ba-2fc8-4880-807d-0c5a727530cd/SQLServer2005_SSMSEE.msi
+
+Microsoft SQL Server 2005 Express Edition Service Pack 3
+https://download.microsoft.com/download/6/C/7/6C7458CA-8B07-411E-9E3B-0DED20512696/SQLEXPR.EXE
+https://download.microsoft.com/download/6/C/7/6C7458CA-8B07-411E-9E3B-0DED20512696/SQLEXPR32.EXE
+	中文版
+https://download.microsoft.com/download/C/E/6/CE626F95-EBD3-4AB8-AA35-C1BFAF98B7D5/SQLEXPR_CHS.EXE
+https://download.microsoft.com/download/C/E/6/CE626F95-EBD3-4AB8-AA35-C1BFAF98B7D5/SQLEXPR32_CHS.EXE
+
+Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 3
+https://download.microsoft.com/download/3/D/4/3D45B165-4A80-4B4E-AFAF-2138D9C5A746/SQLEXPR_ADV_CHS.EXE
+https://download.microsoft.com/download/A/2/6/A26A405B-30C3-48DB-8E3B-9B1A4FCFC4BA/SQLEXPR_ADV.EXE
+
+Microsoft SQL Server 2005 Express Edition Toolkit Service Pack 3 
+https://download.microsoft.com/download/F/D/D/FDD587FF-0388-45A6-8AA4-DD8435B5C6E0/SQLEXPR_TOOLKIT.EXE
+https://download.microsoft.com/download/D/9/F/D9FE4C15-BB2C-48A8-ACEB-B59B0738ACED/SQLEXPR_TOOLKIT_CHS.EXE
+
+Microsoft SQL Server 2005 Management Studio Express Service Pack 3
+https://download.microsoft.com/download/9/A/A/9AA2328C-B0F7-49E1-A4F9-322792A0DD1C/SQLServer2005_SSMSEE.msi
+https://download.microsoft.com/download/9/A/A/9AA2328C-B0F7-49E1-A4F9-322792A0DD1C/SQLServer2005_SSMSEE_x64.msi
+	中文版
+https://download.microsoft.com/download/5/4/F/54F476B4-2348-4D4A-B705-0C8C9AB2A14A/SQLServer2005_SSMSEE_x64.msi
+https://download.microsoft.com/download/5/4/F/54F476B4-2348-4D4A-B705-0C8C9AB2A14A/SQLServer2005_SSMSEE.msi
+
+
+Visual Studio 2005 Service Pack 1 Update for Windows Vista/7/Server 2008/Server 2008 R2
+https://download.microsoft.com/download/c/7/d/c7d9b927-f4e6-4ab2-8399-79a2d5cdfac9/VS80sp1-KB932232-X86-ENU.exe 
+https://download.microsoft.com/download/7/7/a/77abff64-144b-4fa5-bc49-88b1cd574b4f/VS80sp1-KB932230-X86-CHS.exe
+
+Microsoft® Visual Studio® 2005 Team Suite Service Pack 1
+https://download.microsoft.com/download/6/3/c/63c69e5d-74c9-48ea-b905-30ac3831f288/VS80sp1-KB926601-X86-ENU.exe
+https://download.microsoft.com/download/8/0/7/8071514d-9370-45c3-8af1-4ff09a70e59d/VS80sp1-KB926604-X86-CHS.exe
+
+
+#################################################################################
+#								Visual Studio 2003								#
+#################################################################################
+Visual Studio .NET 2003 Enterprise
+ed2k://|file|Visual.Studio.Net.2003.Enterpirse.(Dvd).iso|3552428032|23EBCE2546F63500341F45BBAFB94541|/
+
+
+Microsoft® Visual Studio® .NET™ 2003 Service Pack 1
+https://download.microsoft.com/download/b/5/f/b5f05fd6-2509-4a88-b70c-e0b1d1312852/VS7.1sp1-KB918007-X86.exe
+
+#################################################################################
+#								Visual Studio .NET 2002							#
+#################################################################################
+CD-KEY:
+	SN：D64GG-GXY6T-V6FTR-WCPBB-2YDYB	T7KXG-78HXC-JYRF8-72VH2-6DM7M
+		335-3353356		000-0000000
+
+Visual Studio .NET 2002 Enterprise
+ed2k://|file|Visual.Studio.net.7.0.Enterprise.cd1[www.ed2kers.com].iso|645580800|f3a79a24e3d1cd138d595717a9d51727|h=rt2nfdymj4ofen6pbsjgmhcyncujzgvy|/
+ed2k://|file|Visual.Studio.net.7.0.Enterprise.cd2[www.ed2kers.com].iso|654041088|e33b37a1c708a5973ff4868d6bcfd5b3|h=ogs5ljywkm5ptmues4rrcqvp73p7byep|/
+ed2k://|file|Visual.Studio.net.7.0.Enterprise.CD3[www.ed2kers.com].iso|641669120|d6625e7ce6aee536b97f3cbedfe67bf6|h=rl4ohc36mfgat5n2tsz6xqaaml4n7h6y|/
+ed2k://|file|Visual.Studio.net.7.0.Enterprise.cd4[www.ed2kers.com].iso|104595456|90c668769aa1776a00dc4282e5741386|h=irft3oxxwcnoeqnace5y3yfhbblipx25|/
+ed2k://|file|Visual.Studio.net.7.0.Enterprise.cd5[www.ed2kers.com].iso|369721344|ac1550a7b9d6e68ca7e52403d1290c09|h=ud2opi3xwu76hmgbigocblrdp7iycorh|/
+ed2k://|file|Visual.Studio.net.7.0.Enterprise.VS7.0sp1-KB837234-X86[www.ed2kers.com].exe|86470456|a9ff7aed49ecf3a448ccc5da8085221d|h=2bzhh2gwj6xrbf5zvpj7rslxeomkv2y7|/
+
+
+#################################################################################
+#								Visual Studio Classic									#
+#################################################################################
+Microsoft Visual Studio 6.0 Service Pack 6
+英文版：
+http://download.microsoft.com/download/1/9/f/19fe4660-5792-4683-99e0-8d48c22eed74/Vs6sp6.exe
+中文版：
+http://download.microsoft.com/download/e/c/9/ec94a5d4-d0cf-4484-8b7a-21802f497309/Vs6sp6.exe
+
+Visual Studio 6.0 Professional 
+ed2k://|file|Microsoft.Visual.Studio.6.Pro.(Full.5.CDs.incl.SP.5).Gowenna.ace|1630688509|199031AFD0114351E46A658B0B4C423F|
+
+Visual Basic 6.0 Enterprise
+ed2k://|file|sc_vb6_ent_cd1.iso|274132992|93B08D085B3D7CC0E6DC0EDEBC96E95B|/
+ed2k://|file|sc_vb6_ent_cd2.iso|522444800|FB78AFC8CC543A33E18CD08C31C8DADD|/
+
+Visual C++ 1.52
+ed2k://|file|en_vc152.exe|70985920|B21C2D01C734078E524FF963F0155127|/
+
+Vsiual C++ 2.0
+ed2k://|file|en_vc++_2.0.exe|170173440|AA5123F83E4AB42FC77EB4AA915D5FEF|/
+
+Visual C++ 4.2
+ed2k://|file|en_vc42ent_disc1.exe|202798728|D46F0810192EA1926AA5EC942F326A41|/
+ed2k://|file|en_vc42ent_disc2.exe|28805808|E51366BA6BEEFB294E68865F7BBCFF1E|/
+
+#################################################################################
+#								.NET Framework									#
+#################################################################################
+
+Microsoft .NET Framework 4.6
+http://123.66.126.12/download.microsoft.com/download/6/F/9/6F9673B1-87D1-46C4-BF04-95F24C3EB9DA/enu_netfx/NDP46-KB3045557-x86-x64-AllOS-ENU_exe/NDP46-KB3045557-x86-x64-AllOS-ENU.exe
+ed2k://|file|mu_.net_fx_4.6_for_win_vista_sp2_7sp1_8_8dot1_win_server_2008sp2_2008r2sp1_2012_2012r2_x86_x64_oi_6837939.exe|65444688|CDD2BBDC8148F3E907DAF8A7E5DCA68A|/
+ed2k://|file|cn_.net_fx_4.6_lp_for_win_vista_sp2_7sp1_8_8dot1_win_server_2008sp2_2008r2sp1_2012_2012r2_x86_x64_oi_6837924.exe|5965096|D2AA4AFA4BE176814825112370FF6E4C|/
+	Microsoft .NET Framework 4.6 Language Pack – Chinese (Simplified)
+http://123.66.126.12/download.microsoft.com/download/B/4/B/B4BB144A-E89A-47F0-9321-106DDC18ACDE/NDP46-KB3045557-x86-x64-AllOS-CHS.exe
+
+Microsoft .NET Framework 4.5.1
+http://123.66.126.5/download.microsoft.com/download/1/6/7/167F0D79-9317-48AE-AEDB-17120579F8E2/NDP451-KB2858728-x86-x64-AllOS-ENU.exe
+ed2k://|file|mu_.net_fx_4_5_1_windows_vistasp2_windows_7sp1_windows_8_windows_server_2008sp2_windows_server_2008r2sp1_windows_server_2012_x86_x64_3009816.exe|70087104|6201D74AFE5FE55A8BC934B5E5BF1E80|/
+ed2k://|file|cn_.net_fx_4_5_1_lp_windows_vistasp2_windows_7sp1_windows_8_windows_server_2008sp2_windows_server_2008r2sp1_windows_server_2012_x86_x64_3009853.exe|5883944|365D833D969AF7ECC5416D0D77EC28A7|/
+	Microsoft .NET Framework 4.5.1 Language Pack – Chinese (Simplified)
+http://123.66.126.5/download.microsoft.com/download/A/4/5/A45851B7-EE05-4110-9A0A-31269C7E1922/NDP451-KB2858728-x86-x64-AllOS-CHS.exe
+	Microsoft .NET Framework 4.5.1 Developer Pack
+http://123.66.126.27/download.microsoft.com/download/9/6/0/96075294-6820-4F01-924A-474E0023E407/NDP451-KB2861696-x86-x64-DevPack.exe
+ed2k://|file|mu_.net_fx_4_5_1_dp_win_vistasp2_win_7sp1_win_8_win_8_1_win_server_2008sp2_win_server_2008_r2sp1_win_server_2012_win_server_2012r2_x86_x64_3009815.exe|208261120|823B46A0F892EF0DC7226E7B7522BE6E|/
+
+Microsoft .NET Framework 4.5
+ed2k://|file|mu_.net_framework_4.5_r2_x86_x64_1076098.exe|50352408|0390B971E3B2F06AF2F81D7BC031F45F|/
+ed2k://|file|cn_.net_framework_4.5_language_pack_x86_x64_921026.exe|4150352|8383C688BD174FE3F327D846A9F4CE4E|/
+
+Microsoft .NET Framework 3.5 Service pack 1
+http://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+http://download.microsoft.com/download/0/6/1/061f001c-8752-4600-a198-53214c69b51f/dotnetfx35setup.exe
+ed2k://|file|en_.net_framework_3.5_service_pack_1_x86_x64_ia64.exe|242743296|C8B10D7008E5C32BD5BA03CA0E41BA7B|/
+
+Microsoft .NET Framework 3.5 2
+http://download.microsoft.com/download/7/0/3/703455ee-a747-4cc8-bd3e-98a615c3aedb/dotNetFx35setup.exe
+
+Microsoft .NET Framework 2.0
+ed2k://|file|en_net_framework_sdk_20_ia64.exe|364345528|09DD45390117A16C17F30AD4185BE8BE|/
+ed2k://|file|en_net_framework_sdk_20_x86.exe|371230904|8B480785B9826674A45B4F8F9CDC3378|/
+ed2k://|file|en_net_framework_sdk_20_x64.exe|354170552|C626F97246E1F3CB2DE9A886C04C6FC2|/
+ed2k://|file|en_.net_framework_2.0_service_pack_2_ia64.exe|54762512|33D491757CF8DF4403619C0E7530A2E0|/
+
+Microsoft .NET Framework Version 1.1 Redistributable Package 
+https://www.microsoft.com/en-us/download/details.aspx?id=26
+https://download.microsoft.com/download/a/a/c/aac39226-8825-44ce-90e3-bf8203e74006/dotnetfx.exe
+https://download.microsoft.com/download/7/b/9/7b90644d-1af0-42b9-b76d-a2770319a568/dotnetfx.exe
+
+
+
+#################################################################################
+#								Windows SDK										#
+#################################################################################
+
+Microsoft Windows SDK for Windows 7 and .NET Framework 4
+	Version:	7.1
+	Released in June 2010, this SDK provides Windows 7 headers, libraries, documentation, samples, and tools to develop applications for Windows 7, Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and .NET Framework versions 2.0, 3.0, 3.5 SP1, and 4.0.
+https://download.microsoft.com/download/A/6/A/A6AC035D-DA3F-4F0C-ADA4-37C8E5D34E3D/winsdk_web.exe
+https://download.microsoft.com/download/F/1/0/F10113F5-B750-4969-A255-274341AC6BCE/GRMSDKX_EN_DVD.iso
+https://download.microsoft.com/download/F/1/0/F10113F5-B750-4969-A255-274341AC6BCE/GRMSDKIAI_EN_DVD.iso
+https://download.microsoft.com/download/F/1/0/F10113F5-B750-4969-A255-274341AC6BCE/GRMSDK_EN_DVD.iso
+
+Microsoft Windows SDK for Windows 7 and .NET Framework 3.5 SP1
+	Version:	7.0
+	Released in August 2009, this SDK provides headers, libraries, documentation, samples, and tools (including VS 2008 SP1 C++ compilers) to develop applications for Windows 7, Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and .NET Framework versions 2.0, 3.0, and 3.5 SP1.
+https://download.microsoft.com/download/7/A/B/7ABD2203-C472-4036-8BA0-E505528CCCB7/winsdk_web.exe
+	X86:
+http://download.microsoft.com/download/2/E/9/2E911956-F90F-4BFB-8231-E292A7B6F287/GRMSDK_EN_DVD.iso
+	AMD64:
+http://download.microsoft.com/download/2/E/9/2E911956-F90F-4BFB-8231-E292A7B6F287/GRMSDKX_EN_DVD.iso
+	Itanium
+http://download.microsoft.com/download/2/E/9/2E911956-F90F-4BFB-8231-E292A7B6F287/GRMSDKIAI_EN_DVD.iso
+
+Windows SDK for Windows Server 2008 and .NET Framework 3.5
+	Version:	6.1 / 6.0.6001.18000
+	Date Published:	2/5/2008
+	Released in February 2008, this SDK provides documentation, samples, header files, libraries, and tools (including C++ compilers) that you need to develop applications to run on Windows Server 2008 and the .NET Framework 3.5.
+https://download.microsoft.com/download/f/e/6/fe6eb291-e187-4b06-ad78-bb45d066c30f/6.0.6001.18000.367-KRMSDK_EN.iso
+https://download.microsoft.com/download/2/3/f/23f86204-39ee-4cd7-9a51-db19c9a8f8c4/Setup.exe
+
+
+Windows SDK Update for Windows Vista and .NET Framework 3.0
+	Version:	6.1.6000.16384
+	Date Published:	3/22/2007
+	Released in February 2007, this SDK provides documentation, samples, header files, libraries, and tools that you need to develop applications that run on Windows Vista.
+https://download.microsoft.com/download/c/a/1/ca145d10-e254-475c-85f9-1439f4cd2a9e/Setup.exe
+http://download.microsoft.com/download/4/2/6/42684501-9ec5-43dd-9dfe-c8c9dfa6a66f/6.1.6000.16384.10.WindowsSDK_Vista_Feb2007Update_rtm.DVD.Rel.iso
+
+.NET Framework SDK Version 1.1
+https://www.microsoft.com/en-us/download/details.aspx?id=16217
+https://download.microsoft.com/download/5/2/0/5202f918-306e-426d-9637-d7ee26fbe507/setup.exe
+https://download.microsoft.com/download/0/f/e/0fecf85c-fb50-4ca9-adf2-c4be7ec9b454/setup.exe
+
+Platform SDK April 2005 Edition
+ed2k://|file|en_ws_2003_sp1_SDK_April_2005.iso|414361600|41777258C0736D9D3B8E3C0BA36DCC64|/
+
+Windows® Server 2003 SP1 Platform SDK
+	Version: 		3790.1830
+	Date Published:	5/2/2005
+https://download.microsoft.com/download/7/5/e/75ec7f04-4c8c-4f38-b582-966e76602643/5.2.3790.1830.15.PlatformSDK_Svr2003SP1_rtm.img
+https://download.microsoft.com/download/a/5/f/a5f0d781-e201-4ab6-8c6a-9bb4efed1e1a/PSDK-amd64.exe
+https://download.microsoft.com/download/a/5/f/a5f0d781-e201-4ab6-8c6a-9bb4efed1e1a/PSDK-ia64.exe
+https://download.microsoft.com/download/a/5/f/a5f0d781-e201-4ab6-8c6a-9bb4efed1e1a/PSDK-x86.exe
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.exe
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.1.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.2.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.3.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.4.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.5.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.6.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.7.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.8.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.9.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.10.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.11.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.12.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.13.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.14.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.15.cab
+https://download.microsoft.com/download/5/b/9/5b9fb8b2-9238-491c-878a-0ae7d24591bd/PSDK-FULL.16.cab
+
+
+Platform SDK XP-SP2
+	For XPSP2 2600.2180 RTM:      Size (bytes):    266,000,000    Last Updated:    August 2004 
+http://www.microsoft.com/msdownload/platformsdk/sdkupdate/XPSP2FULLInstall.htm
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.1.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.2.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.3.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.4.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.5.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.6.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.7.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.8.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.9.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.10.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/Extract.exe
+http://download.microsoft.com/download/platformsdk/sdk/update/WIN98MeXP/EN-US/2600.2180/FULL/PSDK-FULL.bat
+
+Platform SDK February 2003：
+	For Server2003 3790.0 RTM:    Size (bytes):    342,000,000    Last Updated:    February 2003 
+http://www.microsoft.com/msdownload/platformsdk/sdkupdate/psdk-full.htm
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.1.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.2.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.3.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.4.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.5.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.6.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.7.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.8.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.9.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.10.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.11.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.12.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.13.cab
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/PSDK-FULL.bat
+http://download.microsoft.com/download/platformsdk/sdk/update/win98mexp/en-us/3790.0/FULL/Extract.exe
+
+
+DirectX Software Development Kit
+https://download.microsoft.com/download/A/E/7/AE743F1F-632B-4809-87A9-AA1BB3458E31/DXSDK_Jun10.exe
+https://download.microsoft.com/download/F/1/7/F178BCE4-FA19-428F-BB60-F3DEE1130BFA/DXSDK_Feb10.exe
+https://download.microsoft.com/download/4/C/F/4CFED5F5-B11C-4159-9ADC-E133B7E42E5C/DXSDK_Aug09.exe
+https://download.microsoft.com/download/5/f/d/5fd259d5-b8a8-4781-b0ad-e93a9baebe70/dxsdk_jun2006.exe
+https://download.microsoft.com/download/3/3/f/33f1af6e-c61b-4f14-a0de-3e9096ed4b3a/dxsdk_aug2007.exe
+
+
+DirectX End-User Runtimes (June 2010) 	9.29.1974
+https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
+DirectX End-User Runtimes (February 2010) 	9.28.1886
+https://download.microsoft.com/download/E/E/1/EE17FF74-6C45-4575-9CF4-7FC2597ACD18/directx_feb2010_redist.exe
+DirectX End-User Runtimes (August 2009) 	9.27.1734
+https://download.microsoft.com/download/B/7/9/B79FC9D7-47B8-48B7-A75E-101DEBEB5AB4/directx_aug2009_redist.exe
+
+#################################################################################
+#								MSDN											#
+#################################################################################
+MSDN_Oct_2001
+ed2k://|file|MSDN_Oct_2001.iso|1558814720|df9843995248f3f88a273f3458f5c4f3|/
+ed2k://|file|DNQ130ENU1.iso|598161408|3e4abe51782eba064b36de74e8b2cfd4|/
+ed2k://|file|DNQ130ENU2.iso|601362432|2729e046d0a11a7c9b8704f369411b86|/
+ed2k://|file|DNQ130ENU3.iso|642330624|d4ff9fa62b140a51737c840fac8290dc|/
+
+MSDN Subscriptions Library June 2007 Edition
+ed2k://|file|cn_msdn_library_2007_06_dvd_x13-70482.iso|2314426368|9B9D46CA1104B4647C579FEF28ACC4F0|/
+
+
+#################################################################################
+#								Utilities										#
+#################################################################################
+WinSDKDebuggingTools 6.12.2.633
+	http://download.microsoft.com/download/A/6/A/A6AC035D-DA3F-4F0C-ADA4-37C8E5D34E3D/setup/WinSDKDebuggingTools/dbg_x86.msi
+	http://download.microsoft.com/download/A/6/A/A6AC035D-DA3F-4F0C-ADA4-37C8E5D34E3D/setup/WinSDKDebuggingTools_amd64/dbg_amd64.msi
+Microsoft Build Tools 2013 (x86) - (Multiple Languages)
+	http://download.microsoft.com/download/9/B/B/9BB1309E-1A8F-4A47-A6C5-ECF76672A3B3/BuildTools_Full.exe
+
+Quickbasic 4.5
+ed2k://|file|en_quickbasic_4.5.exe|3557888|AFCE1A3970DCD345668338F52C542FA3|/
